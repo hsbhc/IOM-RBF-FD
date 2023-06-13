@@ -1,4 +1,4 @@
-# IQM-RBF-FD
+# IOM-RBF-FD
 ## Iterative optimization method for determining optimal shape parameter in RBF-FD
 
 
